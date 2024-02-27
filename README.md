@@ -12,3 +12,4 @@
 NOTE: When following redirects 301 / 302 and a valid response occurs, final ULR will show up in 200.txt. If you do not use "-redirects" it will show up in its applicable status code file ex: 301.txt / 302.txt.
 
 ## redsocks proxy control
+https://github.com/AlbertL7/RedProxyControl
